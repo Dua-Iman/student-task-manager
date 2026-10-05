@@ -1,6 +1,6 @@
 # Student Task Manager
 
-A simple web application for managing student tasks.
+Student Task Management Application.
 
 ## Team Members
 
