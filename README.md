@@ -14,5 +14,3 @@ Student 2: Noor Fatima Zafar- BSDSF25A017
 - Task Completion Status
 - Deletion of Tasks
 - Searching of tasks
-
-Temporary revert demonstration. 
