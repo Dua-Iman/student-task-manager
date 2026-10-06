@@ -14,26 +14,28 @@
     <form id="taskForm">
 
         <label for="taskTitle">Task Title:</label>
-        <input type="text" id="taskTitle" placeholder="Enter task title">
+        <input type="text" id="taskTitle" placeholder="Enter task title" required>
 
         <br><br>
 
         <label for="taskDescription">Description:</label>
-        <textarea id="taskDescription" placeholder="Enter task description"></textarea>
+        <textarea id="taskDescription" placeholder="Enter task description" required></textarea>
 
         <br><br>
 
         <button type="submit">Add Task</button>
 
     </form>
+
     <br>
-    <input type="text" id="searchInput" placeholder="Search tasks...">
 
-    <h2>My Tasks</h2>
+    <h2>Search Tasks</h2>
 
-    <label for="Search Input">Search Tasks":</label>
+    <input type="text" id="searchInput" placeholder="Search by title or description">
 
-    <input type="text" id="searchInput" placeholder="Search tasks...">
+    <br><br>
+
+    <h2>Tasks</h2>
 
     <div id="taskList"></div>
 
