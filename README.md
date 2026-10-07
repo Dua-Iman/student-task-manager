@@ -94,6 +94,9 @@ The project was developed using the following technologies:
 3. Navigate to the project folder using the `cd` command if required.
 
 ## Screenshots
+
+These are screenshots containing implementation of a few Git commands. The complete details of the screenshots are available in the submitted Word Document.
+
 ![1st screenshot](g1.jpeg)
 ![2nd screenshot](g2.jpeg)
 ![3rd screenshot](g3.jpeg)
