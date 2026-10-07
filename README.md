@@ -122,14 +122,15 @@ These are screenshots containing implementation of a few Git commands. The compl
 <img width="1600" height="899" alt="WhatsApp Image 2026-10-07 at 21 10 21" src="https://github.com/user-attachments/assets/53d9d9ae-ad55-418b-9f73-30587dbcca8b" />
 <img width="1600" height="900" alt="WhatsApp Image 2026-10-07 at 21 12 26" src="https://github.com/user-attachments/assets/c4da0eca-c194-4d5d-af10-b6757669a715" />
 <img width="1600" height="899" alt="WhatsApp Image 2026-10-07 at 21 25 21" src="https://github.com/user-attachments/assets/839c1cd5-d035-4f48-a5a0-569a92180c84" />
-<img width="1600" height="899" alt="WhatsApp Image 2026-10-07 at 21 27 06" src="https://github.com/user-attachments/assets/08838b92-917d-4075-b488-ffd0fbb64963" />
 <img width="1600" height="901" alt="WhatsApp Image 2026-10-07 at 21 29 28(1)" src="https://github.com/user-attachments/assets/0d15ccfc-abe0-42ec-981e-ee1e4571eafa" />
 ---
 
 ## Version History
+<img width="1600" height="899" alt="WhatsApp Image 2026-10-07 at 21 22 46" src="https://github.com/user-attachments/assets/fa852467-9f65-477a-a051-ba7ee7e65072" />
 
 ---
 
 ## Contributions
+<img width="1125" height="633" alt="image" src="https://github.com/user-attachments/assets/8775e4e1-6f92-4283-942b-16cdc9488e19" />
 
 
