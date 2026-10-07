@@ -72,3 +72,23 @@ The project was developed using the following technologies:
 
 - [x] `feature/task-search`
   - Used to implement the task search functionality through issue-based development.
+
+  ## How to Run
+
+### Requirements
+
+- Visual Studio Code
+- Git installed on the system
+- Windows Command Prompt (CMD)
+- A web browser
+
+### Open the Project
+
+1. Open the project folder in Visual Studio Code.
+2. Open Command Prompt (CMD).
+3. Navigate to the project folder using the `cd` command if required.
+
+## Screenshots
+![1st screenshot](<img width="1600" height="900" alt="g1" src="https://github.com/user-attachments/assets/99f5d0d0-6608-41d6-9665-3e8daa8b93a6" />)
+
+
