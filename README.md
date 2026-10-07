@@ -16,7 +16,7 @@ The application allows users to add tasks, display tasks,  delete tasks, and sea
 
 ---
 
-## **GitHub Repository:** `<https://github.com/Dua-Iman/student-task-manager>`
+## GitHub Repository: `<https://github.com/Dua-Iman/student-task-manager>`
 
 ---
 
