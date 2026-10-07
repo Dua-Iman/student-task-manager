@@ -97,7 +97,6 @@ The project was developed using the following technologies:
 ![1st screenshot](g1.jpeg)
 ![2nd screenshot](g2.jpeg)
 ![3rd screenshot](g3.jpeg)
-![4th screenshot](g4.jpeg)
 ![5th screenshot](g5.jpeg)
 ![6th screenshot](g6.jpeg)
 ![7th screenshot](g7.jpeg)
