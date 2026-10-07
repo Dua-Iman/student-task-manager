@@ -14,7 +14,12 @@ The application allows users to add tasks, display tasks,  delete tasks, and sea
 | Student 1 | Dua Iman | BSDSF25A035 | Dua-Iman |
 | Student 2 | Noor Fatima Zafar | BSDSF25A017 | N-Zafar |
 
-**GitHub Repository:** `<https://github.com/Dua-Iman/student-task-manager>`
+---
+
+## **GitHub Repository:** `<https://github.com/Dua-Iman/student-task-manager>`
+
+---
+
 ## Features
 
 The Student Task Manager provides the following features:
