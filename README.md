@@ -113,6 +113,14 @@ The project was developed using the following technologies:
 ![18th screenshot](g18.jpeg)
 ![19th screenshot](g19.jpeg)
 ![20th screenshot](g20.jpeg)
+![21th screenshot](g21.jpeg)
+![22th screenshot](g22.jpeg)
+![23th screenshot](g23.jpeg)
+![24th screenshot](g24.jpeg)
+![25th screenshot](g25.jpeg)
+![26th screenshot](g26.jpeg)
+![27th screenshot](g27.jpeg)
+
 
 ---
 
