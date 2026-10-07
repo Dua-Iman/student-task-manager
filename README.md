@@ -123,6 +123,7 @@ These are screenshots containing implementation of a few Git commands. The compl
 ![25th screenshot](g25.jpeg)
 ![26th screenshot](g26.jpeg)
 ![27th screenshot](g27.jpeg)
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-07 at 18 42 56" src="https://github.com/user-attachments/assets/cfd9a193-b3e3-4d32-87f2-7c28e4797af9" />
 
 
 ---
