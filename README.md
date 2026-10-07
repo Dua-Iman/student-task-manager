@@ -116,16 +116,14 @@ These are screenshots containing implementation of a few Git commands. The compl
 ![18th screenshot](g18.jpeg)
 ![19th screenshot](g19.jpeg)
 ![20th screenshot](g20.jpeg)
-![21th screenshot](g21.jpeg)
-![22th screenshot](g22.jpeg)
-![23th screenshot](g23.jpeg)
-![24th screenshot](g24.jpeg)
-![25th screenshot](g25.jpeg)
-![26th screenshot](g26.jpeg)
-![27th screenshot](g27.jpeg)
-<img width="1600" height="900" alt="WhatsApp Image 2026-10-07 at 18 42 56" src="https://github.com/user-attachments/assets/cfd9a193-b3e3-4d32-87f2-7c28e4797af9" />
-
-
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-07 at 21 07 02" src="https://github.com/user-attachments/assets/33c9528c-5b94-468e-badc-4d338b7146bc" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-07 at 21 07 02(1)" src="https://github.com/user-attachments/assets/e51c240a-ab5d-4e07-b3d2-9bf2ac4ac5be" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-07 at 21 07 02(2)" src="https://github.com/user-attachments/assets/e319c3bf-ff3e-4c23-be77-3d4a4e3c0e6f" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-10-07 at 21 10 21" src="https://github.com/user-attachments/assets/53d9d9ae-ad55-418b-9f73-30587dbcca8b" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-07 at 21 12 26" src="https://github.com/user-attachments/assets/c4da0eca-c194-4d5d-af10-b6757669a715" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-10-07 at 21 25 21" src="https://github.com/user-attachments/assets/839c1cd5-d035-4f48-a5a0-569a92180c84" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-10-07 at 21 27 06" src="https://github.com/user-attachments/assets/08838b92-917d-4075-b488-ffd0fbb64963" />
+<img width="1600" height="901" alt="WhatsApp Image 2026-10-07 at 21 29 28(1)" src="https://github.com/user-attachments/assets/0d15ccfc-abe0-42ec-981e-ee1e4571eafa" />
 ---
 
 ## Version History
